@@ -9,3 +9,8 @@ metafile = true
 file = "mods/lahmacun-mod.pw.toml"
 hash = "804cb580e274a53971a5cf194a38b98f11ceb6c6ecd14b0291aaf67325742711"
 metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "e243aee66d3bce50082e7d61936f535688002ea81d021d0808fd6cdd40b6bd66"
+metafile = true
