@@ -4,3 +4,8 @@ hash-format = "sha256"
 file = "mods/fabric-api.pw.toml"
 hash = "0c2a00cdbcf84f32ed8c6232e94cadb586bf1280d6b922818db808c16c6d8a77"
 metafile = true
+
+[[files]]
+file = "mods/lahmacun-mod.pw.toml"
+hash = "804cb580e274a53971a5cf194a38b98f11ceb6c6ecd14b0291aaf67325742711"
+metafile = true
