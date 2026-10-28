@@ -106,6 +106,11 @@ hash = "16b95abc59207ae707b194bb626f792d4ca3d63ce95192118b3d006d0bd8cce0"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "cd05db76d670773ace1184abdd46126e7b7c75c2b70da82e1764cff9544c4269"
+metafile = true
+
+[[files]]
 file = "mods/music-disc-maker.pw.toml"
 hash = "3e62167fe39dae4c62f49bfb8dc87db94f466a2e694458019cbcd34b114001b7"
 metafile = true
@@ -113,6 +118,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "367695f84352088f6fd91932c2feae79e88b56f87a58a3ba4ec50310cfb44351"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
 
 [[files]]
