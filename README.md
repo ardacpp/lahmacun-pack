@@ -1,5 +1,5 @@
 # Lahmacun-Modpack
-Das Modpack für unsere lahmacun-Server (Minecraft 1.21.11, Fabric), gebaut mit [packwiz](https://packwiz.infra.link/).
+Das Modpack für unsere lahmacun-Server (Minecraft 26.3, Fabric), gebaut mit [packwiz](https://packwiz.infra.link/).
 Ihr müsst hier nichts runterladen: Eure Prism-Instanz holt sich bei jedem Start selbst die neueste Version.
 Eure eigenen Mods bleiben dabei, wie sie sind. Angefasst werden nur die Mods, die hier im Pack stehen.
 
