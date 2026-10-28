@@ -1,0 +1,13 @@
+name = "Vapeaholic (Fabric)"
+filename = "Vapeaholic-1.0.3+26.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/WRoXqFAR/versions/Vpj2UMkG/Vapeaholic-1.0.3%2B26.1.jar"
+hash-format = "sha512"
+hash = "cd0f1021b3e493ee3fd86d8f7a96c4ca876e039b7310015f23e09007305ac7d90a865e03b080e89dce294d2404e9505f4e695145f1e0e2dfc68f600ce46ff54b"
+
+[update]
+[update.modrinth]
+mod-id = "WRoXqFAR"
+version = "Vpj2UMkG"

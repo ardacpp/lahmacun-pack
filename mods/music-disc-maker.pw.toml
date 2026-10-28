@@ -1,0 +1,13 @@
+name = "Music Disc Maker"
+filename = "music_disc_maker-3.1.2+fabric-26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mqnazM0E/versions/jnKlZetl/music_disc_maker-3.1.2%2Bfabric-26.3.jar"
+hash-format = "sha512"
+hash = "69f51cd8a1f53a0a0f367966519306e368664d85165b0c8c7bedbb6b7701374965c2d7ef38adc5a59ebc061296ff8bfa64da2e5aa48fc88e40e4727ac15297bd"
+
+[update]
+[update.modrinth]
+mod-id = "mqnazM0E"
+version = "jnKlZetl"

@@ -6,8 +6,58 @@ hash = "ff675667f4c6924a9eaebc42dc2df5306dc5e8b005e931d9d8b73cebad67d5eb"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "8f4143430d51d6010a5e295d8ab5b407d19f121cfffbf617d1692726ab1e205b"
+metafile = true
+
+[[files]]
+file = "mods/balm.pw.toml"
+hash = "3f529d5fd5e99dbcba1364cfc68eefc9235e6956dcd05f4c6554116f89d9c9c9"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "1dd420dda40ff21e8ea9c59781669a9785b658dc6a39fa7b11097341a06b4a20"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "635ce056598c02080a0726d4179394dd0c3843486def18e67ed4e53d82fe0ebf"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "2fa46b8df6c6de59e8d793d1f3fe6de20f590ad8711b826a2a981680bc9aceb3"
+metafile = true
+
+[[files]]
+file = "mods/create-fly-unofficial-port.pw.toml"
+hash = "82ebadc241245fcccc57f02a6acf1e02cdbc006a0a47434e5fcc6187b029fe01"
+metafile = true
+
+[[files]]
+file = "mods/emotecraft.pw.toml"
+hash = "488cb0ab6479bda0607e456d5af72fd76172207d22839ecf0562cdc8fdb73b1e"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "d00381d69d0dba1911229acbc2f89887026d72cc0270a27c94c1e7d06a61fd19"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "bdabe52b4c88b2f57ab21c130c3d00a1ebae771085d31b44674d13c35135feff"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "a4c31d16582621909eba9f06a34f03114d212c7e684c8dbc9991fb12a42e043b"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "95bd6344ae23c9fc446b1878b2e7db35b94e95b27e98fde99b58164e74981898"
 metafile = true
 
 [[files]]
@@ -16,8 +66,78 @@ hash = "533fbed9644632ec234278e0f4fef35d7886d73a27220251bb1c6e06ea7d718f"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "069d81cab53c0141459ad4d70bcf3e10f17652f24cc62d3b4a0fc2cd2b700871"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "3eb12471fce0aadbda432f7fd5ba4e2120e0e0ebbb3663eea756a17ec0254407"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "3af2426b8d83a5fcda1ff6de2035d53bcff532653c196f2ea6d7647995e45131"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "d10bc0853e5663fd2df751f868ca06c21c265f1edc40e6e8cb64bd7cb9044bd0"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "4d8432eed6984a86acf6c9f056755b3f9082eb8fcb5b3f37e96498e7871e40c9"
+metafile = true
+
+[[files]]
 file = "mods/lahmacun-mod.pw.toml"
 hash = "e07b9d4f2a619c19cb8e99934d43149cba27781a8aad900668ee789e087f890d"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "a39389e4c813b70b984a0c8aed769825b32c321ee0b9aed1151d92cb38f77357"
+metafile = true
+
+[[files]]
+file = "mods/mezzconfig.pw.toml"
+hash = "16b95abc59207ae707b194bb626f792d4ca3d63ce95192118b3d006d0bd8cce0"
+metafile = true
+
+[[files]]
+file = "mods/music-disc-maker.pw.toml"
+hash = "3e62167fe39dae4c62f49bfb8dc87db94f466a2e694458019cbcd34b114001b7"
+metafile = true
+
+[[files]]
+file = "mods/netherportalfix.pw.toml"
+hash = "367695f84352088f6fd91932c2feae79e88b56f87a58a3ba4ec50310cfb44351"
+metafile = true
+
+[[files]]
+file = "mods/player-animation-library.pw.toml"
+hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
+metafile = true
+
+[[files]]
+file = "mods/quick-skin.pw.toml"
+hash = "075ceeb2f37e17ae71dd8d0bcfdc1ba2e15437d99ac2d03d992c597e0ca66608"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "91f6defb56c64900bd1ad69147acf1c151b5b372b3ec405933d92ef9308617ae"
+metafile = true
+
+[[files]]
+file = "mods/shogi.pw.toml"
+hash = "7dce4255d013864163503866db2a902f7071d64ef184c3d40189c1ac9641a7f2"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "6865b44c30baa85a87c344ac9d3e0eb0135e90b26a90a6dc28bf79a363170cf9"
 metafile = true
 
 [[files]]
@@ -28,4 +148,39 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "54d699d9ba85bb08b9fd3696a11c7449ea1175a118805855143e1c88fa54aa6b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "bc0c5ffc96724c0abe8d473bdaaa586e9e2b9af773e0943ae815848a12b28eb4"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "6b34fbba370a0a6d9670422b07d471112545e0f416679c517e79229b3494212c"
+metafile = true
+
+[[files]]
+file = "mods/vapeaholic-fabric.pw.toml"
+hash = "5d9c48768fa4d3543c675a8fd2828166479f890dbedba6f461292ef9fc161ede"
+metafile = true
+
+[[files]]
+file = "mods/waystones.pw.toml"
+hash = "85e00f97c2d58db3167bb6608558aa956654f5b0570e0abac082a1d0d4e3c19d"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "14e96b12f10a1f2920cdcec89b4d16e452bec4689e117b38b4c0f759145aaf7f"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "cbb9808546870ecb0a7befebb14df0a11383b1aeafd175a77a0fc4caee44c6f2"
 metafile = true

@@ -1,0 +1,13 @@
+name = "Camerapture"
+filename = "camerapture-1.10.15+mc26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/9dzLWnmZ/versions/zo2icmIo/camerapture-1.10.15%2Bmc26.3.jar"
+hash-format = "sha512"
+hash = "321f75547b7c9684b76a677d091f96f4387d35be7c41555916f6e59bebd05d3826f2a5bae328090c83c78130c45c3ad5eb39c90e5cb4a3f61a2e9bc13ce3af8f"
+
+[update]
+[update.modrinth]
+mod-id = "9dzLWnmZ"
+version = "zo2icmIo"
