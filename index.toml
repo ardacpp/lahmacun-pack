@@ -1,11 +1,31 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "ca3ae2608987185814c118388f28057f729d866ee1abbc97f3650141d213fa35"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "0c2a00cdbcf84f32ed8c6232e94cadb586bf1280d6b922818db808c16c6d8a77"
 metafile = true
 
 [[files]]
+file = "mods/female-gender.pw.toml"
+hash = "7374696b3a79ff09abe79f5591c5abe4233ad037eef268c2b2991fa31a277859"
+metafile = true
+
+[[files]]
 file = "mods/lahmacun-mod.pw.toml"
 hash = "804cb580e274a53971a5cf194a38b98f11ceb6c6ecd14b0291aaf67325742711"
+metafile = true
+
+[[files]]
+file = "mods/so-big-250.pw.toml"
+hash = "356aaa515560fe561daaf2fa0d84cce48aa6c741b35f429b1021b102bc2d8a81"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "6c77ab47932869f9a695fd00c116de2c098e9c9612c50aa4b33a7249c0fc57d2"
 metafile = true

@@ -1,0 +1,13 @@
+name = "So Big: 250%"
+filename = "So-Big-250-1.21.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/beaUzOvu/versions/tbadBTK8/So-Big-250-1.21.x.jar"
+hash-format = "sha512"
+hash = "2c230c45e60cd62e9911fe37ae2262ccbc3974fcc9feef2ec34a9e30883ed5f3ed44c1b3d7aadabe231a039f041548e060506a51b76e942ee3c23ceeea7e3f20"
+
+[update]
+[update.modrinth]
+mod-id = "beaUzOvu"
+version = "tbadBTK8"
