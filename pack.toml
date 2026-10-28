@@ -1,0 +1,13 @@
+name = "Lahmacun"
+author = "Arda"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "77af065c901bdd173248c49329dfa317544c8837934452c809f3c2766794fc1a"
+
+[versions]
+fabric = "0.20.1"
+minecraft = "1.21.11"

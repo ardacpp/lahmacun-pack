@@ -1,0 +1,3 @@
+# Files packwiz must not put into the pack
+README.md
+.gitattributes
