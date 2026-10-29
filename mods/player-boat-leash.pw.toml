@@ -1,0 +1,13 @@
+name = "Player Boat Leash"
+filename = "player-boat-leash-1.2.0+26.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UD09lnU0/versions/EeHlpKyt/player-boat-leash-1.2.0%2B26.3.jar"
+hash-format = "sha512"
+hash = "f023887ecc64e5db76b7f5df01c48336102173c5f9941c860b2889424001ef2528edbacc0600caabbcfda64ac2e60bea19d2ea6621723c458c562964d64f212c"
+
+[update]
+[update.modrinth]
+mod-id = "UD09lnU0"
+version = "EeHlpKyt"

@@ -26,6 +26,11 @@ hash = "635ce056598c02080a0726d4179394dd0c3843486def18e67ed4e53d82fe0ebf"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "25d72861a68fb153c350ec4a5a1c9b3056d487b2891dfea2b2d85c828fde438c"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "2fa46b8df6c6de59e8d793d1f3fe6de20f590ad8711b826a2a981680bc9aceb3"
 metafile = true
@@ -131,6 +136,21 @@ hash = "5f500b882196aa8eae0d0dff4299b2fff908a8e61c7b6aab0d840a2824b3bc5f"
 metafile = true
 
 [[files]]
+file = "mods/player-boat-leash.pw.toml"
+hash = "ee694a3a50048a2ccbb45478b3dd0dbbf49276b67ed0d3219b2b240e3c71ecc9"
+metafile = true
+
+[[files]]
+file = "mods/polymer.pw.toml"
+hash = "81e0bd51f0b5263927aeb4ccdae36a23b8c118a19f9cc8f9da06495e2c5ce5f1"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "1d781325cf9001dddce371f093e679e84e93024d62cc28e367343c4cc1d8ca04"
+metafile = true
+
+[[files]]
 file = "mods/quick-skin.pw.toml"
 hash = "075ceeb2f37e17ae71dd8d0bcfdc1ba2e15437d99ac2d03d992c597e0ca66608"
 metafile = true
@@ -166,6 +186,11 @@ hash = "9b0969e4afbc18124775c008361dc1cfb9a17e49098d93d067b6342a4a54427c"
 metafile = true
 
 [[files]]
+file = "mods/structory.pw.toml"
+hash = "acde42a8fb5c6bb52edce15df8998fbdb5d68de8017b7d5dcf3d2e6a84aed660"
+metafile = true
+
+[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "bc0c5ffc96724c0abe8d473bdaaa586e9e2b9af773e0943ae815848a12b28eb4"
 metafile = true
@@ -173,6 +198,16 @@ metafile = true
 [[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "6b34fbba370a0a6d9670422b07d471112545e0f416679c517e79229b3494212c"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "03eb3ef4c0373fbc95f282be4b2a77eb4e3d2307165f155141ac2de83ee14261"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "52a4b40e5afac13570eb7fc9bb96a923644254bbaac923a70cd64acbe9a872c6"
 metafile = true
 
 [[files]]
