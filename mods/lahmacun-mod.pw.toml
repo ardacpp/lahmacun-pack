@@ -1,8 +1,8 @@
 name = "Lahmacun"
-filename = "lahmacun-mod-0.2.0.jar"
+filename = "lahmacun-mod-0.3.0.jar"
 side = "both"
 
 [download]
-url = "https://github.com/ardacpp/lahmacun-pack/releases/download/lahmacun-mod-0.2.0/lahmacun-mod-0.2.0.jar"
+url = "https://github.com/ardacpp/lahmacun-pack/releases/download/lahmacun-mod-0.3.0/lahmacun-mod-0.3.0.jar"
 hash-format = "sha256"
-hash = "51e0fd4a8541c5d7c3fd3e8188e008e87e0c51d386bcd37da6dc83080be63134"
+hash = "79558eb5944cdb19a76413da08dfb8346c031e2e2f3fec10609293bca9f575e2"
