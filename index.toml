@@ -97,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/lahmacun-mod.pw.toml"
-hash = "63501ef49b5c0d4e90cadef2163a8723b0ea809920aafc8fba77e1c4c21a2503"
+hash = "54afd3eeceaeab8782ded629442d5bbf62a0ccd61b189bcd0d348391bc7c8b3b"
 metafile = true
 
 [[files]]
