@@ -126,6 +126,11 @@ hash = "367695f84352088f6fd91932c2feae79e88b56f87a58a3ba4ec50310cfb44351"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "54019b98e621d0ab792d7a2de0f8f2714660e367790b17ffa0ac902344166396"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "4d3d2ad41a037af6f78e2a6c2908c4098bb0b5c03ad0d2711a0c0c6df5e7a172"
 metafile = true
